@@ -19,7 +19,7 @@ EventCrafter is a modern web application that allows users to design, customize,
 sh
 Copy
 Edit
-git clone https://github.com/your-username/EventCrafter.git  
+git clone https:(https://github.com/Pruthvi070/EventCrafter.git)
 cd EventCrafter  
 npm install  
 npm start

@@ -8,7 +8,7 @@ const RSVPList = () => {
     useEffect(() => {
         const fetchRSVPs = async () => {
             try {
-                const response = await fetch("http://localhost:5000/api/rsvp");
+                const response = await fetch("https://eventcrafter-backend.onrender.com");
                 if (!response.ok) throw new Error("Failed to fetch RSVPs.");
                 const data = await response.json();
                 setRsvps(data);

@@ -24,4 +24,6 @@ cd EventCrafter
 npm install  
 npm start
 🎨 Demo
-🔗 Live Demo (if available)
+🔗 Live Demo : (https://eventcrafterpruthvi070.netlify.app/)
+
+

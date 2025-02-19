@@ -27,4 +27,6 @@ Thumbs.db
 # Misc
 *.zip
 *.tar.gz
-coverage/
+coverage/ 
+.env
+
